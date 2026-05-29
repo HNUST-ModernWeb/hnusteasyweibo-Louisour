@@ -1,0 +1,11 @@
+com\weibo\controller\WeiboController.class
+com\weibo\controller\LoginController.class
+com\weibo\model\Comment.class
+com\weibo\WeiboApplication.class
+com\weibo\model\User.class
+com\weibo\service\UserService.class
+com\weibo\config\WebConfig.class
+com\weibo\config\LoginInterceptor.class
+com\weibo\service\WeiboService$LikeResult.class
+com\weibo\model\Post.class
+com\weibo\service\WeiboService.class
